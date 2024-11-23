@@ -4,7 +4,7 @@ This project focuses on predicting the price of cubic zirconia stones based on v
 
 Dataset Features
 The dataset includes the following features for each cubic zirconia stone:
-Carat: Weight of the cubic zirconia
+Carat: Weight of the cubic zirconia.
 Cut: Quality of the cut (Fair, Good, Very Good, Premium, Ideal)
 Color: Color grading from D (best) to J (worst)
 Clarity: Clarity grade from FL (Flawless) to I3 (most inclusions)
