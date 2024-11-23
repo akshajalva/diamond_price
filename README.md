@@ -3,7 +3,9 @@
 This project focuses on predicting the price of cubic zirconia stones based on various physical and geometric features. The dataset includes attributes such as carat, depth percentage, table percentage, and price, among others. The goal is to build a machine learning model that accurately predicts the price of cubic zirconia stones and provides insights into the relationships between these features.
 
 Dataset Features
+
 The dataset includes the following features for each cubic zirconia stone:
+
 Carat: Weight of the cubic zirconia.
 Cut: Quality of the cut (Fair, Good, Very Good, Premium, Ideal)
 Color: Color grading from D (best) to J (worst)
